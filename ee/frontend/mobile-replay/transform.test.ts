@@ -996,7 +996,7 @@ describe('replay/transform', () => {
                     id: 12354,
                     width: 100,
                     height: 30,
-                    type: 'radio group',
+                    type: 'radio_group',
                     childNodes: [
                         {
                             id: 12355,
